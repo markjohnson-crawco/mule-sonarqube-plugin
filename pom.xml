@@ -18,7 +18,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.apiVersion>7.7</sonar.apiVersion>
 		<jaxb.api.version>2.3.3</jaxb.api.version>
-		<jaxb.version>2.3.2</jaxb.version>
+		<jaxb.version>2.3.8</jaxb.version>
 	</properties>
 
 	<dependencies>
